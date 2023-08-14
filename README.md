@@ -2,7 +2,7 @@
 
 Submitted by: Elson Jian
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 20 hours spent in total
 
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the website.
 - Had trouble with figuring out how to apply the images to the game-img class
 
 ## License
